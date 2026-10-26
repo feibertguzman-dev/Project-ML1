@@ -8,6 +8,12 @@
 ![Plataforma](https://img.shields.io/badge/Plataforma-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-informational)
 
+## ENTREGABLES:
+
+1. Enlace a Landing Page: https://feibertguzman-dev.github.io/Project-ML1/
+2. Enlace a Streamlit: https://project-ml1.streamlit.app/
+3. Enlace a la documentación: https://github.com/feibertguzman-dev/Project-ML1/tree/main/docs
+
 ## Descripción
 
 Este proyecto tiene como objetivo explicar, de manera práctica e interactiva, dos fundamentos básicos de la **Introducción a la Inteligencia Artificial**:
